@@ -156,3 +156,4 @@ def fix_flickr_resp(response_string):
 #    HINT 2: skip the first element in the sorted list. That will be the tag
 #    the user typed in, since all the photos have that tag.
 
+#I don't think you are suppose to post the solution to your code
